@@ -35,7 +35,7 @@ https://github.com/varshitha847/Blog/assets/108856914/3e66bf8b-2f8a-44da-9247-0e
 
 #### Run server locally
 
-> Go to localhost:3000
+> Go to localhost:8000
 
 
 
